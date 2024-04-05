@@ -1,0 +1,4 @@
+apache_beam[gcp]
+gcsfs
+pangeo-forge-recipes==0.10.7
+s3fs
